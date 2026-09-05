@@ -1,0 +1,16 @@
+{
+  "language": "Santali",
+  "classes": {
+    "class_1": {
+      "subjects": [
+        {
+          "name": "Language",
+          "chapters": [
+            "Chapter 1",
+            "Chapter 2"
+          ]
+        }
+      ]
+    }
+  }
+}
