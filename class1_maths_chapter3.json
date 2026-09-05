@@ -1,0 +1,64 @@
+{
+  "class": 1,
+  "subject": "Mathematics",
+  "book": "Joyful Mathematics",
+  "chapter_number": 3,
+  "chapter_title": "Mango Treat",
+
+  "main_theme": "Counting numbers up to 9 and comparing quantities",
+
+  "number_range": {
+    "from": 1,
+    "to": 9
+  },
+
+  "core_concepts": [
+    "Counting objects from 1 to 9",
+    "One more than a number",
+    "Number names and numerals from 1 to 9",
+    "Matching numbers with quantities",
+    "Showing numbers using fingers",
+    "Comparing quantities",
+    "More, less and equal",
+    "Ordering numbers",
+    "Finding missing numbers",
+    "Identifying the biggest and smallest number",
+    "Combining groups to make a given number"
+  ],
+
+  "activities": [
+    "Count objects from 1 to 9",
+    "Match numerals with the corresponding number of objects",
+    "Show numbers using fingers",
+    "Compare two groups of objects",
+    "Identify which group has more or fewer objects",
+    "Arrange numbers from smallest to largest",
+    "Complete missing numbers in a sequence",
+    "Identify the biggest number",
+    "Make groups containing a given number of objects"
+  ],
+
+  "learning_outcomes": [
+    "Count familiar objects accurately up to 9",
+    "Recognise numerals from 1 to 9",
+    "Write numerals from 1 to 9",
+    "Understand the idea of one more",
+    "Represent numbers using objects, dots and fingers",
+    "Compare two groups using more, less and equal",
+    "Arrange numbers in increasing order",
+    "Find missing numbers in simple sequences",
+    "Identify the biggest and smallest number"
+  ],
+
+  "vocabulary": [
+    "more",
+    "less",
+    "equal",
+    "one more",
+    "biggest",
+    "smallest",
+    "count",
+    "number",
+    "quantity"
+  ]
+}
