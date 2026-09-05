@@ -1,0 +1,21 @@
+{
+  "class": 1,
+  "subjects": [
+    {
+      "name": "Hindi",
+      "chapters": []
+    },
+    {
+      "name": "English",
+      "chapters": []
+    },
+    {
+      "name": "Mathematics",
+      "chapters": []
+    },
+    {
+      "name": "Environmental Studies",
+      "chapters": []
+    }
+  ]
+}
