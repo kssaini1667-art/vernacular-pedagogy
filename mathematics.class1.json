@@ -1,0 +1,411 @@
+{
+  "class": 1,
+  "subject": "Mathematics",
+  "book": "Joyful Mathematics",
+  "curriculum": "NCERT",
+  "academic_year": "2026-27",
+
+  "chapters": [
+
+    {
+      "chapter_number": 1,
+      "title": "Finding the Furry Cat!",
+      "topics": [
+        "Above and below",
+        "On and under",
+        "Inside and outside",
+        "Near and far",
+        "Before and after",
+        "Position of objects",
+        "Sorting and grouping"
+      ],
+      "activities": [
+        "Find things using positional clues",
+        "Identify objects inside and outside",
+        "Identify objects above and below",
+        "Arrange objects before and after",
+        "Find and sort objects around the classroom"
+      ],
+      "learning_outcomes": [
+        "Use positional words correctly",
+        "Describe the position of familiar objects",
+        "Understand before and after",
+        "Sort familiar objects into groups"
+      ]
+    },
+
+    {
+      "chapter_number": 2,
+      "title": "What is Long? What is Round? Look Around",
+      "topics": [
+        "Long and short",
+        "Tall and short",
+        "Near and far",
+        "Thick and thin",
+        "Heavy and light",
+        "Round and non-round objects",
+        "Rolling and sliding",
+        "Comparing objects"
+      ],
+      "activities": [
+        "Find long and round objects",
+        "Compare objects by length and height",
+        "Compare thick and thin objects",
+        "Identify heavy and light objects",
+        "Experiment with rolling and sliding objects",
+        "Make shapes using boxes and clay"
+      ],
+      "learning_outcomes": [
+        "Compare familiar objects",
+        "Identify long, short, tall and thin objects",
+        "Recognise round objects",
+        "Identify objects that roll or slide"
+      ]
+    },
+
+    {
+      "chapter_number": 3,
+      "title": "Mango Treat",
+      "topics": [
+        "Counting from 1 to 9",
+        "Number names",
+        "Numerals",
+        "One more",
+        "More and less",
+        "Equal quantities",
+        "Ordering numbers",
+        "Missing numbers",
+        "Comparing groups"
+      ],
+      "activities": [
+        "Count birds and animals",
+        "Show numbers using fingers",
+        "Compare two groups",
+        "Arrange numbers from 1 to 9",
+        "Find missing numbers",
+        "Count and colour objects",
+        "Combine groups of objects"
+      ],
+      "learning_outcomes": [
+        "Count objects up to 9",
+        "Recognise numbers 1 to 9",
+        "Understand one more",
+        "Compare quantities",
+        "Arrange numbers in order"
+      ]
+    },
+
+    {
+      "chapter_number": 4,
+      "title": "Making 10",
+      "topics": [
+        "Numbers up to 10",
+        "Number recognition",
+        "Making 10",
+        "Different combinations of 10",
+        "Counting",
+        "Ten frame",
+        "Number sequence",
+        "Smallest and biggest numbers",
+        "Numbers up to 20"
+      ],
+      "activities": [
+        "Make dot designs",
+        "Use dice and count dots",
+        "Make a string of 10 beads",
+        "Make a ten frame",
+        "Play finger games",
+        "Complete number sequences",
+        "Arrange numbers from biggest to smallest",
+        "Join numbers from 1 to 20"
+      ],
+      "learning_outcomes": [
+        "Recognise numbers up to 20",
+        "Understand different ways of making 10",
+        "Represent numbers using objects",
+        "Identify biggest and smallest numbers",
+        "Complete simple number sequences"
+      ]
+    },
+
+    {
+      "chapter_number": 5,
+      "title": "How Many?",
+      "topics": [
+        "Counting",
+        "Addition",
+        "Combining groups",
+        "Addition using objects",
+        "Addition using fingers",
+        "Addition using number strip",
+        "Subtraction",
+        "Taking away",
+        "Subtraction using number strip",
+        "Number stories"
+      ],
+      "activities": [
+        "Count family members",
+        "Play addition with dice",
+        "Combine groups of objects",
+        "Add using fingers",
+        "Use a number strip",
+        "Solve simple addition problems",
+        "Solve subtraction problems",
+        "Jump backward on a number strip",
+        "Solve everyday number stories"
+      ],
+      "learning_outcomes": [
+        "Add two groups of objects",
+        "Understand addition as combining",
+        "Subtract by taking away",
+        "Use a number strip",
+        "Solve simple addition and subtraction problems"
+      ]
+    },
+
+    {
+      "chapter_number": 6,
+      "title": "Vegetable Farm",
+      "topics": [
+        "Addition",
+        "Addition up to 18",
+        "Different addition strategies",
+        "Number strip",
+        "Subtraction",
+        "Taking away",
+        "Counting forward",
+        "Counting backward",
+        "Addition and subtraction word problems"
+      ],
+      "activities": [
+        "Add vegetables from two baskets",
+        "Use objects for addition",
+        "Use a number strip",
+        "Solve addition problems",
+        "Solve subtraction problems",
+        "Use backward counting",
+        "Solve everyday mathematical situations",
+        "Plant a vegetable sapling"
+      ],
+      "learning_outcomes": [
+        "Add numbers using different strategies",
+        "Subtract numbers by taking away",
+        "Use number strips",
+        "Solve simple word problems",
+        "Apply addition and subtraction to real-life situations"
+      ]
+    },
+
+    {
+      "chapter_number": 7,
+      "title": "Lina's Family",
+      "topics": [
+        "Counting family members",
+        "Tall and short",
+        "Tallest and shortest",
+        "Long and short",
+        "Thick and thin",
+        "Measuring with handspans",
+        "Heavy and light",
+        "Weight",
+        "Capacity",
+        "Near and far"
+      ],
+      "activities": [
+        "Count family members",
+        "Identify tallest and shortest person",
+        "Compare lengths",
+        "Measure objects using handspans",
+        "Compare heavy and light objects",
+        "Compare capacity using containers",
+        "Identify objects that are near or far"
+      ],
+      "learning_outcomes": [
+        "Compare height and length",
+        "Measure using non-standard units",
+        "Compare weight",
+        "Compare capacity",
+        "Use near and far appropriately"
+      ]
+    },
+
+    {
+      "chapter_number": 8,
+      "title": "Fun with Numbers",
+      "topics": [
+        "Numbers from 21 to 50",
+        "Number names",
+        "Counting",
+        "Number sequence",
+        "Place value ideas",
+        "Tens and ones",
+        "Comparing numbers",
+        "Ordering numbers",
+        "Number patterns"
+      ],
+      "activities": [
+        "Count objects in groups",
+        "Read numbers from 21 to 50",
+        "Arrange number cards",
+        "Find missing numbers",
+        "Compare numbers",
+        "Make number cards",
+        "Identify number patterns"
+      ],
+      "learning_outcomes": [
+        "Recognise numbers up to 50",
+        "Read and write number names",
+        "Arrange numbers in order",
+        "Identify missing numbers",
+        "Compare numbers and quantities"
+      ]
+    },
+
+    {
+      "chapter_number": 9,
+      "title": "Utsav",
+      "topics": [
+        "Patterns",
+        "Shapes",
+        "Colours",
+        "Counting",
+        "Patterns in surroundings",
+        "Repeating patterns",
+        "Indian festivals"
+      ],
+      "activities": [
+        "Observe patterns in festival decorations",
+        "Extend given patterns",
+        "Find patterns in nature",
+        "Use flowers, leaves and objects to create patterns",
+        "Make a collage using objects",
+        "Create patterns using actions such as clapping"
+      ],
+      "learning_outcomes": [
+        "Identify repeating patterns",
+        "Extend simple patterns",
+        "Recognise shapes and patterns in surroundings",
+        "Create simple patterns"
+      ]
+    },
+
+    {
+      "chapter_number": 10,
+      "title": "How do I Spend my Day?",
+      "topics": [
+        "Daily routine",
+        "Morning",
+        "Afternoon",
+        "Evening",
+        "Night",
+        "Sequencing events",
+        "Before and after",
+        "Days and daily activities",
+        "Time-related vocabulary"
+      ],
+      "activities": [
+        "Discuss daily routine",
+        "Arrange daily activities in order",
+        "Identify morning and evening activities",
+        "Identify activities done during the day and night",
+        "Talk about daily schedule"
+      ],
+      "learning_outcomes": [
+        "Describe a daily routine",
+        "Sequence events",
+        "Use morning, afternoon, evening and night",
+        "Understand before and after in daily activities"
+      ]
+    },
+
+    {
+      "chapter_number": 11,
+      "title": "How Many Times?",
+      "topics": [
+        "Repeated addition",
+        "Equal groups",
+        "Counting groups",
+        "Multiplication readiness",
+        "Repeated quantities",
+        "Grouping"
+      ],
+      "activities": [
+        "Count children sitting in groups",
+        "Count seats in groups",
+        "Use repeated addition",
+        "Find totals of equal groups",
+        "Make equal groups using objects"
+      ],
+      "learning_outcomes": [
+        "Recognise equal groups",
+        "Count objects in groups",
+        "Understand repeated addition",
+        "Develop early understanding of multiplication"
+      ]
+    },
+
+    {
+      "chapter_number": 12,
+      "title": "How Much Can We Spend?",
+      "topics": [
+        "Money",
+        "Coins",
+        "Notes",
+        "Denominations",
+        "Counting money",
+        "Comparing amounts",
+        "Buying and spending",
+        "Simple money problems"
+      ],
+      "activities": [
+        "Identify coins",
+        "Identify notes",
+        "Count money",
+        "Find different ways to pay for an object",
+        "Compare amounts",
+        "Solve simple buying situations",
+        "Choose objects that can be bought with a given amount"
+      ],
+      "learning_outcomes": [
+        "Recognise common coins and notes",
+        "Understand denominations",
+        "Count small amounts of money",
+        "Compare amounts",
+        "Solve simple money-related problems"
+      ]
+    },
+
+    {
+      "chapter_number": 13,
+      "title": "So Many Toys",
+      "topics": [
+        "Counting objects",
+        "Comparing quantities",
+        "More than",
+        "Less than",
+        "Equal to",
+        "Sorting",
+        "Classification",
+        "Patterns",
+        "Shapes"
+      ],
+      "activities": [
+        "Count different types of toys",
+        "Compare numbers of toys",
+        "Use more than, less than and equal to",
+        "Sort objects",
+        "Identify patterns",
+        "Complete number and object patterns",
+        "Create a flower-pattern card"
+      ],
+      "learning_outcomes": [
+        "Count and compare groups of objects",
+        "Use more than, less than and equal to",
+        "Sort objects according to features",
+        "Recognise and extend simple patterns",
+        "Apply counting and comparison in familiar situations"
+      ]
+    }
+
+  ]
+}
