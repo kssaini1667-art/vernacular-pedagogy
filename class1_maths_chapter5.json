@@ -1,0 +1,62 @@
+{
+  "class": 1,
+  "subject": "Mathematics",
+  "book": "Joyful Mathematics",
+  "chapter_number": 5,
+  "chapter_title": "How Many?",
+
+  "main_theme": "Counting and understanding quantities up to 20",
+
+  "number_range": {
+    "from": 1,
+    "to": 20
+  },
+
+  "core_concepts": [
+    "Counting objects up to 20",
+    "Reading and writing numbers up to 20",
+    "Counting forward",
+    "Counting backward",
+    "Matching numbers with quantities",
+    "Comparing quantities",
+    "More and less",
+    "One more and one less",
+    "Number sequences",
+    "Finding missing numbers"
+  ],
+
+  "activities": [
+    "Count objects in groups up to 20",
+    "Match a number with the corresponding quantity",
+    "Count objects using fingers and other familiar materials",
+    "Arrange number cards in order",
+    "Complete missing numbers in a sequence",
+    "Find one more and one less than a given number",
+    "Compare two groups and identify which has more or less",
+    "Practise counting forward and backward"
+  ],
+
+  "learning_outcomes": [
+    "Count objects accurately up to 20",
+    "Recognise and write numbers up to 20",
+    "Match numerals with quantities",
+    "Count forward and backward",
+    "Compare quantities using more and less",
+    "Understand one more and one less",
+    "Identify missing numbers in simple sequences",
+    "Arrange numbers in the correct order"
+  ],
+
+  "vocabulary": [
+    "count",
+    "number",
+    "quantity",
+    "more",
+    "less",
+    "one more",
+    "one less",
+    "before",
+    "after",
+    "sequence"
+  ]
+}
