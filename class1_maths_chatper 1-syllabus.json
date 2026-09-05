@@ -1,0 +1,33 @@
+{
+  "class": 1,
+  "subject": "Mathematics",
+  "book": "Joyful Mathematics",
+  "chapter_number": 1,
+  "chapter_title": "Finding the Furry Cat!",
+  "academic_year": "2026-27",
+  "core_concepts": [
+    "Positional words: above, below, on, under",
+    "Inside and outside",
+    "Near and far",
+    "Before and after",
+    "Sorting and grouping objects"
+  ],
+  "activities": [
+    "Finding things using positional clues",
+    "Throwing a ball into and outside a basket",
+    "Identifying positions in pictures",
+    "Observing positions and colours on the national flag",
+    "Identifying objects before and after a given object in a train",
+    "Making a human train and describing who is before and after",
+    "Sorting everyday objects into groups",
+    "Arranging classroom objects using positional vocabulary"
+  ],
+  "learning_outcomes": [
+    "Identify and use basic positional words in everyday situations.",
+    "Distinguish between inside and outside and describe object positions.",
+    "Use above, below, on and under appropriately.",
+    "Understand before and after using objects arranged in a sequence.",
+    "Sort familiar objects into groups based on observable features."
+  ],
+  "source_note": "Structured summary prepared from the user-provided NCERT Joyful Mathematics Chapter 1 material."
+}
